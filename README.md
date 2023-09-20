@@ -1,15 +1,20 @@
-# Kali-Nethunter-for-Redmi-Note9T-5G-common-g
-<u>How to make it?</u>
-1./PC/Use Xiaomi unlock tool to unlock your Redmi Note9T/Note9 5G.
-Download:https://miuirom.xiaomi.com/rom/u1106245679/6.5.224.28/miflash_unlock-en-6.5.224.28.zip
-Detail:Unzip Files--Press Agree Button--Press Unlock Button.
+# Kali-Nethunter-for-Redmi-Note9T-5G-common-g  
+<u>How to make it?</u>  
+1./PC/Use Xiaomi unlock tool to unlock your Redmi Note9T/Note9 5G.  
+Download:https://miuirom.xiaomi.com/rom/u1106245679/6.5.224.28/miflash_unlock-en-6.5.224.28.zip  
+Detail:Unzip Files--Press Agree Button--Press Unlock Button.  
 ***
-2./Phone/Press and hold the volume key when booting to enter FastBoot mode.
+2./Phone/Press and hold the volume key when booting to enter FastBoot mode.  
 ***
-3./PC/Use FastBoot to flash TWRP Recovery.
-Download:https://unofficialtwrp.com/unofficial-twrp-3-4-2-root-redmi-note-9t-5g/
-Detail:Use CMD:fastboot flash recovery 3.4.2_redmi_note_9T_5G.rar
+3./PC/Use FastBoot to flash TWRP Recovery.  
+Download:https://unofficialtwrp.com/unofficial-twrp-3-4-2-root-redmi-note-9t-5g/  
+Detail:Use CMD:fastboot flash recovery 3.4.2_redmi_note_9T_5G.rar  
 ***
-4./Phone/Use TWRP to flash Magisk.
-Download:https://unofficialtwrp.com/unofficial-twrp-3-4-2-root-redmi-note-9t-5g/
-Detail:Press and hold the volume key when booting to enter TWRP--
+4./Phone/Use TWRP to flash Magisk.  
+Download:https://unofficialtwrp.com/unofficial-twrp-3-4-2-root-redmi-note-9t-5g/  
+Detail:Press and hold the volume key when booting to enter TWRP--Press Install Button--Select Magisk-v21.4.zip--Install Now.  
+5./Phone/Use TWRP to flash Nethunter apps.
+Download:https://github.com/RinnnnnStudio/Kali-Nethunter-for-Redmi-Note9T-5G-common-g/tree/main/files  
+Detail:Press and hold the volume key when booting to enter TWRP--Press Install Button--Select XXX(Download File).zip--Install Now-Reboot Device.  
+<u>How to use it?</u>  
+1.Use
