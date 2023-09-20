@@ -28,7 +28,7 @@ Detail:Press and hold the volume key when booting to enter TWRP--Press Install B
 
 Download:https://github.com/RinnnnnStudio/Kali-Nethunter-for-Redmi-Note9T-5G-common-g/tree/main/files  
 
-Detail:Press and hold the volume key when booting to enter TWRP--Press Install Button--Select XXX(Download File).zip--Install Now-Reboot Device.  
+Detail:Press and hold the volume key when booting to enter TWRP--Press Install Button--Select XXX(Download File).zip--Install Now--Reboot.  
 
 ***
 
