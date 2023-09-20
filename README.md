@@ -1,7 +1,5 @@
 # Kali-Nethunter-for-Redmi-Note9T-5G-common-g  
 
-***
-
 <u>How to make it?</u>  
 
 1./PC/Use Xiaomi unlock tool to unlock your Redmi Note9T/Note9 5G.  
@@ -51,6 +49,7 @@ Detail:Press and hold the volume key when booting to enter TWRP--Press Install B
 ***
 
 <u>How to use Kali Linux?</u>  
+
 1.Open NetHunter App.  
 
 2.Press 'Kali Chroot Manager' button.  
